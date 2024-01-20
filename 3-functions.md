@@ -2,7 +2,7 @@
 The first rule of functions is that they should be small. The second rule of functions is that
 they should be smaller than that. Functions should hardly ever be 20 lines long.
 
-Ideally, Every function to be just two, or three, or four lines long. Each to be transparently obvious. Each tell
+Ideally, Every function supposed to be just two, or three, or four lines long. Each supposed to be transparently obvious. Each tell
 a story. And each led you to the next in a compelling order. That’s how short your functions
 should be
 
